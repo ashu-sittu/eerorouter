@@ -5,7 +5,7 @@ How to Sign In Eero Router? Easy Guide
    :caption: Contents: 
 
 
-.. image:: https://fubo-help.readthedocs.io/en/latest/_images/signin.gif
+.. image:: https://lh5.googleusercontent.com/UpKdTWJ1KBeLZNMHm87NRVCLYsq0vmcyr73CCyhaqh3KI3sTpMGgXOlQjx15bhlgY0G742oBTMqmmDbeFcK-CojfNeeODgOrsK0JIU1b-KEq7JjvdoQLDkuv2_kXHSe7IAHdNmsbxNoFX-DDrFwaLeFzen_KhNG_qP09uN2xK7AwtQ63m3qL9A=w1280
    :alt: My Project Logo
    :width: 400px
    :align: center
